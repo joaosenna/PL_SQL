@@ -1,0 +1,7 @@
+Procedimento
+Pode retornar valores para o ambiente de chamada
+"Não retorna valor"
+
+Function
+Deve retornar um e somente um valor para o ambiente de chamada 
+"Retornar valor"
